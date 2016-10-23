@@ -215,8 +215,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKSLASH",
-                    "label": "\\"
+                    "key": "TAB",
+                    "label": "TAB"
                 }
             }
         },
@@ -293,8 +293,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "TAB",
-                    "label": "TAB"
+                    "key": "RSHIFT",
+                    "label": "R\u21d1"
                 }
             }
         },
@@ -410,8 +410,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LSHIFT",
-                    "label": "L\u21d1"
+                    "key": "RCTRL",
+                    "label": "RCTRL"
                 }
             }
         },

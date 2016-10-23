@@ -21,7 +21,7 @@
                     "key": "ESC",
                     "label": "ESC"
                 },
-                "1": {
+                "2": {
                     "key": "F11",
                     "label": "F11"
                 }
@@ -38,7 +38,7 @@
                     "key": "5",
                     "label": "5"
                 },
-                "1": {
+                "2": {
                     "key": "F5",
                     "label": "F5"
                 }
@@ -55,7 +55,7 @@
                     "key": "4",
                     "label": "4"
                 },
-                "1": {
+                "2": {
                     "key": "F4",
                     "label": "F4"
                 }
@@ -72,7 +72,7 @@
                     "key": "3",
                     "label": "3"
                 },
-                "1": {
+                "2": {
                     "key": "F3",
                     "label": "F3"
                 }
@@ -89,7 +89,7 @@
                     "key": "2",
                     "label": "2"
                 },
-                "1": {
+                "2": {
                     "key": "F2",
                     "label": "F2"
                 }
@@ -106,7 +106,7 @@
                     "key": "1",
                     "label": "1"
                 },
-                "1": {
+                "2": {
                     "key": "F1",
                     "label": "F1"
                 }
@@ -120,8 +120,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "EQUALS",
-                    "label": "="
+                    "key": "ESCAPE",
+                    "label": "ESC"
                 },
                 "2": {
                     "key": "#:flashMode()",
@@ -449,8 +449,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "DELETE",
-                    "label": "DEL"
+                    "key": "FUN1",
+                    "label": "\u01921"
                 }
             }
         },
@@ -462,8 +462,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "BACKSPACE",
-                    "label": "BKSP"
+                    "key": "RSHIFT",
+                    "label": "R\u21d1"
                 }
             }
         },
@@ -514,8 +514,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKTICK",
-                    "label": "`"
+                    "key": "LALT",
+                    "label": "LALT"
                 }
             }
         },
@@ -543,7 +543,7 @@
                     "key": "LCK2",
                     "label": "LOCK-2"
                 },
-                "1": {
+                "2": {
                     "key": "F12",
                     "label": "F12"
                 }
@@ -560,7 +560,7 @@
                     "key": "6",
                     "label": "6"
                 },
-                "1": {
+                "2": {
                     "key": "F6",
                     "label": "F6"
                 }
@@ -577,13 +577,9 @@
                     "key": "7",
                     "label": "7"
                 },
-                "1": {
+                "2": {
                     "key": "F7",
                     "label": "F7"
-                },
-                "2": {
-                    "key": "NUMLOCK",
-                    "label": "NMLK"
                 }
             }
         },
@@ -598,13 +594,9 @@
                     "key": "8",
                     "label": "8"
                 },
-                "1": {
+                "2": {
                     "key": "F8",
                     "label": "F8"
-                },
-                "2": {
-                    "key": "P\/",
-                    "label": "P\/"
                 }
             }
         },
@@ -619,13 +611,9 @@
                     "key": "9",
                     "label": "9"
                 },
-                "1": {
+                "2": {
                     "key": "F9",
                     "label": "F9"
-                },
-                "2": {
-                    "key": "P*",
-                    "label": "P*"
                 }
             }
         },
@@ -640,13 +628,9 @@
                     "key": "0",
                     "label": "0"
                 },
-                "1": {
+                "2": {
                     "key": "F10",
                     "label": "F10"
-                },
-                "2": {
-                    "key": "P-",
-                    "label": "P-"
                 }
             }
         },
@@ -660,6 +644,10 @@
                 "0": {
                     "key": "MINUS",
                     "label": "-"
+                },
+                "1": {
+                    "key": "EQUAL",
+                    "label": "="
                 }
             }
         },
@@ -700,7 +688,7 @@
                     "key": "U",
                     "label": "U"
                 },
-                "2": {
+                "1": {
                     "key": "P7",
                     "label": "P7"
                 }
@@ -717,7 +705,7 @@
                     "key": "I",
                     "label": "I"
                 },
-                "2": {
+                "1": {
                     "key": "P8",
                     "label": "P8"
                 }
@@ -734,7 +722,7 @@
                     "key": "O",
                     "label": "O"
                 },
-                "2": {
+                "1": {
                     "key": "P9",
                     "label": "P9"
                 }
@@ -750,10 +738,6 @@
                 "0": {
                     "key": "P",
                     "label": "P"
-                },
-                "2": {
-                    "key": "P+",
-                    "label": "P+"
                 }
             }
         },
@@ -794,7 +778,7 @@
                     "key": "J",
                     "label": "J"
                 },
-                "2": {
+                "1": {
                     "key": "P4",
                     "label": "P4"
                 }
@@ -811,7 +795,7 @@
                     "key": "K",
                     "label": "K"
                 },
-                "2": {
+                "1": {
                     "key": "P5",
                     "label": "P5"
                 }
@@ -828,7 +812,7 @@
                     "key": "L",
                     "label": "L"
                 },
-                "2": {
+                "1": {
                     "key": "P6",
                     "label": "P6"
                 }
@@ -844,10 +828,6 @@
                 "0": {
                     "key": "SEMICOLON",
                     "label": ";"
-                },
-                "2": {
-                    "key": "P+",
-                    "label": "P+"
                 }
             }
         },
@@ -861,6 +841,10 @@
                 "0": {
                     "key": "QUOTE",
                     "label": "'"
+                },
+                "1": {
+                    "key": "BACKTICK",
+                    "label": "`"
                 }
             }
         },
@@ -927,7 +911,7 @@
                     "key": "M",
                     "label": "M"
                 },
-                "2": {
+                "1": {
                     "key": "P1",
                     "label": "P1"
                 }
@@ -944,7 +928,7 @@
                     "key": "COMMA",
                     "label": ","
                 },
-                "2": {
+                "1": {
                     "key": "P2",
                     "label": "P2"
                 }
@@ -961,7 +945,7 @@
                     "key": "PERIOD",
                     "label": "."
                 },
-                "2": {
+                "1": {
                     "key": "P3",
                     "label": "P3"
                 }
@@ -978,9 +962,9 @@
                     "key": "SLASH",
                     "label": "\/"
                 },
-                "2": {
-                    "key": "PENTER",
-                    "label": "P\u21b5"
+                "1": {
+                    "key": "BACKSLASH",
+                    "label": "\\"
                 }
             }
         },
@@ -1031,8 +1015,12 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "ENTER",
-                    "label": "\u21b5"
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
+                },
+                "1": {
+                    "key": "DELETE",
+                    "label": "DEL"
                 }
             }
         },
@@ -1047,9 +1035,9 @@
                     "key": "SPACE",
                     "label": "[&nbsp;]"
                 },
-                "2": {
-                    "key": "P0",
-                    "label": "P0"
+                "1": {
+                    "key": "ENTER",
+                    "label": "\u21b5"
                 }
             }
         },
@@ -1061,8 +1049,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LEFT",
-                    "label": "\u2190"
+                    "key": "DOWN",
+                    "label": "\u2193"
+                },
+                "1": {
+                    "key": "P0",
+                    "label": "P0"
                 }
             }
         },
@@ -1074,8 +1066,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "DOWN",
-                    "label": "\u2193"
+                    "key": "UP",
+                    "label": "\u2191"
                 }
             }
         },
@@ -1087,12 +1079,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "UP",
-                    "label": "\u2191"
-                },
-                "2": {
-                    "key": "P.",
-                    "label": "P."
+                    "key": "LEFT",
+                    "label": "\u2190"
                 }
             }
         },
@@ -1106,10 +1094,6 @@
                 "0": {
                     "key": "RIGHT",
                     "label": "\u2192"
-                },
-                "2": {
-                    "key": "PENTER",
-                    "label": "P\u21b5"
                 }
             }
         },

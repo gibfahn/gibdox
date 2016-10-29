@@ -524,8 +524,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LALT",
-                    "label": "LALT"
+                    "key": "RCTRL",
+                    "label": "RCTRL"
                 }
             }
         },
@@ -537,8 +537,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LCTRL",
-                    "label": "LCTRL"
+                    "key": "LALT",
+                    "label": "LALT"
                 }
             }
         },

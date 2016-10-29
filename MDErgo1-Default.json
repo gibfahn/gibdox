@@ -446,8 +446,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:None",
-                    "label": "NONE"
+                    "key": "ESCAPE",
+                    "label": "ESC"
                 }
             }
         },
@@ -537,8 +537,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:None",
-                    "label": "NONE"
+                    "key": "LCTRL",
+                    "label": "LCTRL"
                 }
             }
         },
@@ -654,12 +654,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "MINUS",
-                    "label": "-"
-                },
-                "1": {
-                    "key": "EQUAL",
-                    "label": "="
+                    "key": "#:None",
+                    "label": "NONE"
                 },
                 "2": {
                     "key": "#:flashMode()",
@@ -773,8 +769,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:'#'",
-                    "label": "#"
+                    "key": "MINUS",
+                    "label": "-"
+                },
+                "1": {
+                    "key": "EQUAL",
+                    "label": "="
                 }
             }
         },
@@ -1008,8 +1008,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "ENTER",
-                    "label": "\u21b5"
+                    "key": "#:'#'",
+                    "label": "#"
                 }
             }
         },

@@ -44,7 +44,7 @@ U"FUNCTION5" : U"LGUI";
 U"FUNCTION4" : U"RCTRL";
 U"FUNCTION3" : U"LALT";
 U"BACKTICK" : None;
-U"LGUI" : None;
+U"LGUI" : U"BACKTICK";
 U"FUNCTION6" : U"LCK2";
 U"6" : None;
 U"7" : None;

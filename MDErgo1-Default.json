@@ -524,8 +524,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RCTRL",
-                    "label": "RCTRL"
+                    "key": "LCTRL",
+                    "label": "LCTRL"
                 }
             }
         },
@@ -1026,8 +1026,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RCTRL",
-                    "label": "RCTRL"
+                    "key": "LCTRL",
+                    "label": "LCTRL"
                 }
             }
         },
@@ -1073,8 +1073,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LCTRL",
-                    "label": "LCTRL"
+                    "key": "RCTRL",
+                    "label": "RCTRL"
                 }
             }
         },

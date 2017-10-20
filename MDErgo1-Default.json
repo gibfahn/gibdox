@@ -119,10 +119,6 @@
                 "0": {
                     "key": "#:'('",
                     "label": "("
-                },
-                "1": {
-                    "key": "#:'<'",
-                    "label": "<"
                 }
             }
         },
@@ -136,10 +132,6 @@
                 "0": {
                     "key": "T",
                     "label": "T"
-                },
-                "1": {
-                    "key": "#:'^'",
-                    "label": "^"
                 }
             }
         },
@@ -322,8 +314,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:None",
-                    "label": "NONE"
+                    "key": "CONS:SCANNEXTTRACK",
+                    "label": "NEXT"
                 }
             }
         },
@@ -335,8 +327,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:None",
-                    "label": "NONE"
+                    "key": "CONS:SCANPREVIOUSTRACK",
+                    "label": "PREV"
                 }
             }
         },
@@ -350,10 +342,6 @@
                 "0": {
                     "key": "LBRACE",
                     "label": "["
-                },
-                "1": {
-                    "key": "#:'!'",
-                    "label": "!"
                 }
             }
         },
@@ -549,10 +537,7 @@
             "w": 4,
             "h": 4,
             "layers": {
-                "0": {
-                    "key": "#:None",
-                    "label": "NONE"
-                }
+
             }
         },
         {
@@ -562,10 +547,7 @@
             "w": 4,
             "h": 4,
             "layers": {
-                "0": {
-                    "key": "BACKTICK",
-                    "label": "`"
-                }
+
             }
         },
         {
@@ -677,10 +659,6 @@
                 "0": {
                     "key": "#:')'",
                     "label": ")"
-                },
-                "1": {
-                    "key": "#:'>'",
-                    "label": ">"
                 }
             }
         },
@@ -696,8 +674,8 @@
                     "label": "Y"
                 },
                 "1": {
-                    "key": "#:'#'",
-                    "label": "#"
+                    "key": "HOME",
+                    "label": "HOME"
                 }
             }
         },
@@ -713,8 +691,8 @@
                     "label": "U"
                 },
                 "1": {
-                    "key": "#:'$'",
-                    "label": "$"
+                    "key": "PAGEDOWN",
+                    "label": "PGDN"
                 }
             }
         },
@@ -730,8 +708,8 @@
                     "label": "I"
                 },
                 "1": {
-                    "key": "#:'*'",
-                    "label": "*"
+                    "key": "PAGEUP",
+                    "label": "PGUP"
                 }
             }
         },
@@ -747,8 +725,8 @@
                     "label": "O"
                 },
                 "1": {
-                    "key": "#:'%'",
-                    "label": "%"
+                    "key": "END",
+                    "label": "END"
                 }
             }
         },
@@ -762,10 +740,6 @@
                 "0": {
                     "key": "P",
                     "label": "P"
-                },
-                "1": {
-                    "key": "#:'&'",
-                    "label": "&"
                 }
             }
         },
@@ -892,8 +866,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RGUI",
-                    "label": "RGUI"
+                    "key": "CONS:INTERNETBROWSER",
+                    "label": "WEB"
                 }
             }
         },
@@ -905,8 +879,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "F17",
-                    "label": "F17"
+                    "key": "CONS:PAUSEPLAY",
+                    "label": "PL\/PS"
                 }
             }
         },
@@ -920,10 +894,6 @@
                 "0": {
                     "key": "RBRACE",
                     "label": "]"
-                },
-                "1": {
-                    "key": "#:'@'",
-                    "label": "@"
                 }
             }
         },
@@ -1098,10 +1068,7 @@
             "w": 4,
             "h": 4,
             "layers": {
-                "0": {
-                    "key": "#:None",
-                    "label": "NONE"
-                }
+
             }
         },
         {
@@ -1111,10 +1078,7 @@
             "w": 4,
             "h": 4,
             "layers": {
-                "0": {
-                    "key": "#:None",
-                    "label": "NONE"
-                }
+
             }
         },
         {
@@ -1124,10 +1088,7 @@
             "w": 4,
             "h": 4,
             "layers": {
-                "0": {
-                    "key": "#:None",
-                    "label": "NONE"
-                }
+
             }
         }
     ]

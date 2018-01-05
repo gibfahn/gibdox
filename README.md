@@ -1,3 +1,9 @@
+# Archived repo !
+
+This repo is no longer maintained (although the latest commit should still work
+fine). I've moved to QMK, you can find my config at
+[gibfahn/qmk_firmware#gib](https://github.com/gibfahn/qmk_firmware).
+
 # My Ergodox Configuration
 
 This is the latest version of my ergodox layout. The easiest way to modify it is
